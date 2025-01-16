@@ -1,0 +1,8 @@
+Extra words about task:
+Task was received 03.07.24. I started working on it 07.07 and finished in two days. Overall I've spent about 4-5 hours
+in total on this task.
+Previously I had an experience of working with various datasets. This task interesting to me because of  diversity
+of its data and availability of several datasets with handy information.
+For example, player_attributes contains various performance metrics, player_data - basic information, could be linking
+dataset. League data and match data provide information about different soccer leagues and soccer matches.
+It was pretty entertaining to find ways of connecting found data to explore the particular answers.
