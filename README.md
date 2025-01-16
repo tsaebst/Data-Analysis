@@ -1,4 +1,4 @@
-# Data Analysis and Visualization Projects
+# Data Analysis and Visualization 
 
 This repository contains analytical and visualization projects addressing real-world business challenges. Below are the included works:
 
